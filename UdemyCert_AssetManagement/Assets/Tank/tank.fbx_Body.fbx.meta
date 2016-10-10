@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 61c353531350b4f299c71037d3c880b7
+timeCreated: 1476104075
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: headlight
+    100004: headlight.002
+    100006: Hull V
+    100008: Lamp
+    100010: oil drum
+    100012: //RootNode
+    100014: track guard
+    100016: TrackCurve
+    100018: turret neck
+    100020: wheel
+    100022: wheel front
+    100024: wheel mirror
+    100026: wheel rear
+    400000: Camera
+    400002: headlight
+    400004: headlight.002
+    400006: Hull V
+    400008: Lamp
+    400010: oil drum
+    400012: //RootNode
+    400014: track guard
+    400016: TrackCurve
+    400018: turret neck
+    400020: wheel
+    400022: wheel front
+    400024: wheel mirror
+    400026: wheel rear
+    2300000: headlight
+    2300002: headlight.002
+    2300004: Hull V
+    2300006: oil drum
+    2300008: //RootNode
+    2300010: track guard
+    2300012: TrackCurve
+    2300014: turret neck
+    2300016: wheel
+    2300018: wheel front
+    2300020: wheel rear
+    3300000: headlight
+    3300002: headlight.002
+    3300004: Hull V
+    3300006: oil drum
+    3300008: //RootNode
+    3300010: track guard
+    3300012: TrackCurve
+    3300014: turret neck
+    3300016: wheel
+    3300018: wheel front
+    3300020: wheel rear
+    4300000: hull
+    4300002: headlight.002
+    4300004: TrackCurve
+    4300006: turret neck
+    4300008: oil drum
+    4300010: wheel rear
+    4300012: wheel front
+    4300014: Hull V
+    4300016: wheel
+    4300018: track guard
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
